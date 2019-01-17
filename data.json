@@ -1,0 +1,109 @@
+{
+  "tags": [
+    "cheating",
+    "heartbreak",
+    "revenge",
+    "blondes",
+    "romance",
+    "nostalgia",
+    "country",
+    "wilderness",
+    "survival",
+    "abuse",
+    "sex",
+    "life",
+    "laughter",
+    "heartache"
+  ],
+  "songs": [
+    {
+      "year": 1967,
+      "title": "I Don't Wanna Throw Rice",
+      "quote": "Now while they're all outside, waiting to throw rice. What I want to throw will surely black her eyes. Cause I don't want to throw rice",
+      "tags": [
+        "cheating",
+        "heartbreak",
+        "revenge"
+      ]
+    },
+    {
+      "year": 1967,
+      "title": "Dumb Blonde",
+      "quote": "Don't try to make me feel sorry for you. Just because I'm blonde. Don't think I'm dumb, cause this dumb blonde ain't nobody's fool",
+      "tags": [
+        "blondes",
+        "cheating"
+      ]
+    },
+    {
+      "year": 1982,
+      "title": "Do I Ever Cross Your Mind",
+      "quote": "Sometimes I go walkin' through the fields where we walked, long ago in the sweet used-to-be. And the flowers still grow But they don't smell as sweet As they did when you picked them for me",
+      "tags": [
+        "romance",
+        "nostalgia"
+      ]
+    },
+    {
+      "year": 1989,
+      "title": "Take Me Back to the Country",
+      "quote": "Well this big city life is gettin' me down. There's just too many people around. There's dirt in the air and crime in the street, high-rise buildings and cold concrete. This rat race sure enough takes a toll, I wanna run off to my fishin' hole",
+      "tags": [
+        "country",
+        "wilderness"
+      ]
+    },
+    {
+      "year": 1987,
+      "title": "Making Plans",
+      "quote": "You're making plans to forget me. I'm making plans to miss you. I'm getting ready to grieve",
+      "tags": [
+        "heartbreak"
+      ]
+    },
+    {
+      "year": 1987,
+      "title": "Wildflowers",
+      "quote": "When a flower grows wild it can always survive. Wildflowers don't care where they grow.",
+      "tags": [
+        "wilderness",
+        "survival"
+      ]
+    },
+    {
+      "year": 1998,
+      "title": "Blue Valley Songbird",
+      "quote": "At fifteen she took to the highway, belongings and guitar in hand. She buried herself in her music, the one thing she did understand",
+      "tags": [
+        "abuse",
+        "survival"
+      ]
+    },
+    {
+      "year": 1999,
+      "title": "Steady As The Rain",
+      "quote": "Raindrops just keep falling down, beatin' out their rhythmic sounds, dancin' as they play their sweet refrain.",
+      "tags": [
+        "wilderness",
+        "heartache"
+      ]
+    },
+    {
+      "year": 2001,
+      "title": "I Get a Kick Out of You",
+      "quote": "I get no kick from champagne, mere alcohol don't thrill me at'all. Some people go for cocaine, I'm sure that if I took even one sniff, that would bore me terrifically too. Still, I get a kick out of you",
+      "tags": [
+        "life",
+        "laughter"
+      ]
+    },
+    {
+      "year": 2002,
+      "title": "These Old Bones",
+      "quote": "These old bones will tell your story, these old bones will never lie. These old bones will tell you surely what you can't see with your eye.",
+      "tags": [
+        "life"
+      ]
+    }
+  ]
+}
